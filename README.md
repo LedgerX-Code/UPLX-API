@@ -9,7 +9,7 @@ UPLX data operations is divided into two phases, WRITE and READ phase.
 * **WRITE phase** enables medical institutions to record patient information via API integration to HIS (Hospital Information Systems) or EMR (Electronic Medical Record) systems or via manual integration using database extraction or excel files. Data recorded during Write phase is encrypted and anonymized using blockchain private and public key infrastructure. Anonymizing patient data is the process of removing personal identity information such as patient name, NRIC or passport. 
 * **READ phase** enables recorded data to be accessed by third parties to perform various data analytics such as big data analytics, machine learning and even AI. Read access to the UPLX network is provided via API integration. Secure API keys are provided to third parties for them to perform read operations of various stages of anonymized patient data.
 
-This combination of Write and Read operations allows almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions
+This combination of Write and Read operations allows almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions. Developers can build their own application or program to interact with UPLX platform via API to read or write data.
 
 
 
