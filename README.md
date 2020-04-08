@@ -11,11 +11,16 @@ UPLX data operations is divided into two phases, **WRITE** and **READ** phase.
 
 This combination of **Write** and **Read** operations allows almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions. Developers can build their own application or program to interact with UPLX platform via API to read or write data.
 
-# Write API
+# UPLX Write API
 Will be released in future. Please stay tuned.
 
-# Read API
-fgdsgsd
+# UPLX Read API
+Currently there 4 read APIs: 
+- [Get Patient Detail](https://beta.cryptoestate.net/apidoc/)
+- [Get prescription detail](https://beta.cryptoestate.net/apidoc/)
+- [Get consultation detail](https://beta.cryptoestate.net/apidoc/)
+- [Get List Of Patient](https://beta.cryptoestate.net/apidoc/)
+
 
 # API Guidelines
 This guideline can be implemented in various programming language. In this document, there are four example of implementation of UPLX API :
