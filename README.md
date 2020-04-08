@@ -11,8 +11,10 @@ UPLX data operations is divided into two phases, **WRITE** and **READ** phase.
 
 This combination of **Write** and **Read** operations allows almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions. Developers can build their own application or program to interact with UPLX platform via API to read or write data.
 
+# API Guidelines
+This guideline can be implemented in various programming language. In this document, there are four example of implementation of UPLX API :
 
-
+- [C# Programming Language](https://beta.cryptoestate.net/apidoc/)
 
 
 
