@@ -19,10 +19,7 @@ Currently there are 4 read APIs:
 - [Get List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-List-Of-Patient)
 
 
-# API Guidelines
-This guideline can be implemented in various programming language. In this document, there are four example of implementation of UPLX API :
 
-- [C# Programming Language](https://beta.cryptoestate.net/apidoc/)
 
 
 
