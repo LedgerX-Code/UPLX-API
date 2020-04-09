@@ -14,8 +14,8 @@ Will be released in future. Please stay tuned.
 # UPLX Read API
 Currently there are 4 read APIs: 
 - [Get Patient Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Patient-Detail)
-- [Get Prescription Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Prescription-Detail)
-- [Get Consultation Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Consultation-Details)
+- [Get Prescriptions By Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Prescription-Detail)
+- [Get Consultations By Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Consultation-Details)
 - [Get List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-List-Of-Patient)
 
 
