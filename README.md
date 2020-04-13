@@ -12,11 +12,12 @@ This combination of **Write** and **Read** operations allows almost real-time ac
 Will be released in future. Please stay tuned.
 
 # UPLX Read API
-Currently there are 4 read APIs: 
+Currently there are 5 read APIs: 
 - [Get Patient Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Patient-Detail)
-- [Get Prescriptions By Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Prescription-Detail)
-- [Get Consultations By Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Consultation-Details)
+- [Get Prescription_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Prescription-Detail)
+- [Get Consultation_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Consultation-Details)
 - [Get List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-List-Of-Patient)
+- [Get List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
 
 
 
