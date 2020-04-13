@@ -9,15 +9,16 @@ UPLX data operations is divided into two phases, **WRITE** and **READ** phase.
 This combination of **Write** and **Read** operations allows almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions. Developers can build their own application or program to interact with UPLX platform via API to read or write data.
 
 # UPLX Write API
-Will be released in future. Please stay tuned.
+Currently there are 4 APIs:
+- [POST Create a patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-a-patient)
 
 # UPLX Read API
 Currently there are 5 read APIs: 
-- [Get Patient Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Patient-Detail)
-- [Get Prescription_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Prescription-Detail)
-- [Get Consultation_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-Consultation-Details)
-- [Get List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/Get-List-Of-Patient)
-- [Get List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
+- [GET Patient Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Patient-Detail)
+- [GET Prescription_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Prescription_getbypatient)
+- [GET Consultation_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Consultation_getbypatient)
+- [GET List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Patient)
+- [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
 
 
 
