@@ -10,7 +10,7 @@ This combination of **Write** and **Read** operations allows almost real-time ac
 
 # UPLX Write API
 Currently there are 4 APIs:
-- [POST Create a patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-a-patient)
+- [POST Create a patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Patient)
 
 # UPLX Read API
 Currently there are 5 read APIs: 
