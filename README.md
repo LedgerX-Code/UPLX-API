@@ -25,7 +25,7 @@ Currently there are 5 read APIs:
 - [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
 
 # API Guidelines
-Click on [Basic API Guideline](https://github.com/LedgerX-Code/API-Guideline) for basic implmentation of API guidelines.
+Click on [Basic API Guideline](https://github.com/LedgerX-Code/API-Guidelines) for basic implmentation of API guidelines.
 
 
 
