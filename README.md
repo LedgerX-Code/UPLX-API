@@ -20,7 +20,9 @@ Currently there are 5 read APIs:
 - [GET List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Patient)
 - [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
 
-
+# API Guidelines
+Click on below link on basic API implementation guidlines:
+- [API Guideline](https://github.com/LedgerX-Code/API-Guideline)
 
 
 
