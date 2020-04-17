@@ -24,8 +24,7 @@ Currently there are 5 read APIs:
 - [GET List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Patient)
 - [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
 
-# API Guidelines
-**How to get your API Key?**
+# Getting Your API Key
 Before you started with using our API services, you will need to obtain your API key via:
 - Request your API key via email. ***Not yet available (will be available in future)** 
 - Create your own user account. ***Not yet available (will be available in future)**
