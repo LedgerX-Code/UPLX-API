@@ -27,7 +27,7 @@ Currently there are 5 read APIs:
 # API Guidelines
 **How to get your API Key?**
 Before you started with using our API services, you will need to obtain your API key via:
-- Request your API key via email.
+- Request your API key via email. ***Not yet available (will be available in future)** 
 - Create your own user account. ***Not yet available (will be available in future)**
 
 # API Guidelines
