@@ -27,7 +27,8 @@ Currently there are 5 read APIs:
 # API Guidelines
 **How to get your API Key?**
 Before you started with using our API services, you will need to obtain your API key via:
-1. 
+- Request your API key via email.
+- Create your own user account. *Not yet available (will be available in future)
 
 # API Guidelines
 Click on [Basic API Guideline](https://github.com/LedgerX-Code/API-Guidelines) for basic implmentation of API guidelines.
