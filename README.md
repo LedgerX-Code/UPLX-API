@@ -30,7 +30,7 @@ Before getting started with our API services, you will need to obtain your API k
 - Create your own user account. ***Not yet available (coming soon)**
 
 # API Guidelines
-Click on [Basic API Guideline](https://github.com/LedgerX-Code/API-Guidelines) for basic implmentation of API guidelines.
+Click on [Basic API Guideline](https://github.com/LedgerX-Code/API-Guidelines) for basic implementation of API guidelines.
 
 
 
