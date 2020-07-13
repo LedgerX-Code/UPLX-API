@@ -14,6 +14,7 @@ Currently there are 5 write APIs:
 - [POST Create Consultation](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Consultation)
 - [POST Create Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Issue)
 - [POST Create Prescription](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Prescription)
+- [POST Create Triage](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Triage)
 - [PUT Update Patient Details](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/PUT--Update-Patient-Details)
 
 # UPLX Read API
