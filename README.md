@@ -23,8 +23,6 @@ This combination of **Write** and **Read** operations allow almost real-time acc
 - [GET List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Patient)
 - [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
 
-# UPLX MASTER APIs
-Click ---> [UPLX APIs](https://demoapi.uplx.io/swagger/index.html) to view all available UPLX APIs. 
 
 # Getting Your API Key
 Before getting started with our API services, you will need to obtain your API key via:
