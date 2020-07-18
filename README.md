@@ -8,7 +8,7 @@ UPLX data operations is divided into two phases, **WRITE** and **READ** phase.
 
 This combination of **Write** and **Read** operations allow almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions. Developers can build their own application or program to interact with UPLX platform via API to read or write data.
 
-## Basic UPLX Write API ##
+## Basic Write API ##
 - [POST Create Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Patient)
 - [POST Create Consultation](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Consultation)
 - [POST Create Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Issue)
@@ -18,7 +18,7 @@ This combination of **Write** and **Read** operations allow almost real-time acc
 - [POST Create Procedure](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Procedure)
 - [PUT Update Patient Details](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/PUT--Update-Patient-Details)
 
-# UPLX Read API
+## Basic ead API ##
 - [GET Patient Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Patient-Detail)
 - [GET Prescription_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Prescription_getbypatient)
 - [GET Consultation_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Consultation_getbypatient)
