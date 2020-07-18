@@ -19,7 +19,8 @@ This combination of **Write** and **Read** operations allow almost real-time acc
 | [POST Create Procedure](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Procedure) |   |
 | [PUT Update Patient Details](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/PUT--Update-Patient-Details)  |   |
 
-
+## All UPLX's APIs ##
+Click on [All UPLX APIs](https://demoapi.uplx.io/swagger/index.html) for more API list and details.
 
 # Getting Your API Key
 Before getting started with our API services, you will need to obtain your API key via:
