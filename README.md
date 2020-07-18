@@ -21,24 +21,6 @@ This combination of **Write** and **Read** operations allow almost real-time acc
 
 
 
-## Basic Write API ##
-- [POST Create Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Patient)
-- [POST Create Consultation](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Consultation)
-- [POST Create Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Issue)
-- [POST Create Prescription](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Prescription)
-- [POST Create Triage](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Triage)
-- [POST Create Test](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Test)
-- [POST Create Procedure](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Procedure)
-- [PUT Update Patient Details](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/PUT--Update-Patient-Details)
-
-## Basic Read API ##
-- [GET Patient Detail](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Patient-Detail)
-- [GET Prescription_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Prescription_getbypatient)
-- [GET Consultation_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Consultation_getbypatient)
-- [GET List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Patient)
-- [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)
-
-
 # Getting Your API Key
 Before getting started with our API services, you will need to obtain your API key via:
 - Request your API key via email. ***Not yet available (coming soon)** 
