@@ -8,6 +8,19 @@ UPLX data operations is divided into two phases, **WRITE** and **READ** phase.
 
 This combination of **Write** and **Read** operations allow almost real-time access to patient data and enables medical institutions to perform data analytics and inference on a daily basis, on ever changing medical conditions. Developers can build their own application or program to interact with UPLX platform via API to read or write data.
 
+| **Basic Write API** | **Basic Read API** |
+| ------------- | ------------- |
+| [POST Create Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Patient)  | [GET Patient Detail](https://github.com/LedgerXCode/demoapi.uplx.io/wiki/GET--Patient-Detail) |
+| [POST Create Consultation](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Consultation)  | [GET Prescription_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Prescription_getbypatient) |
+| [POST Create Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Issue) | [GET Consultation_getbypatient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--Consultation_getbypatient)  |
+| [POST Create Prescription](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Prescription)  | [GET List Of Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Patient)  |
+| [POST Create Triage](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Triage)  | [GET List Of Issue](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/GET--List-Of-Issue)  |
+| [POST Create Test](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Test)  |  |
+| [POST Create Procedure](https://github.com/LedgerX-Code/UPLX-API/wiki/POST--Create-Procedure) |   |
+| [PUT Update Patient Details](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/PUT--Update-Patient-Details)  |   |
+
+
+
 ## Basic Write API ##
 - [POST Create Patient](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Patient)
 - [POST Create Consultation](https://github.com/LedgerX-Code/demoapi.uplx.io/wiki/POST--Create-Consultation)
